@@ -1,0 +1,207 @@
+/*------------------------------------------------------------------------------
+-- // LAYOUT
+------------------------------------------------------------------------------*/
+
+.wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  max-width: $content-width;
+
+  @include media-query {
+    padding-right: $spacing-unit / 4;
+    padding-left: $spacing-unit / 4;
+    max-width: $media-break;
+  }
+}
+
+/*------------------------------------------------------------------------------
+-- // HEADER
+------------------------------------------------------------------------------*/
+
+.site-header {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+
+  @include media-query {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+  }
+}
+
+.site-title {
+  border-bottom: none;
+  font-size: 2em;
+  font-weight: 300;
+  color: $grey-dark-color;
+  text-transform: uppercase;
+  @include transition(all .25s ease-in-out);
+
+  &:hover { color: $brand-color; }
+}
+
+.site-nav {
+  margin-top: $spacing-unit / 4;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    display: inline-block;
+    padding-right: $spacing-unit / 2;
+
+    &:last-child { padding-right: 0; }
+  }
+
+  a {
+    display: block;
+    border-bottom: none;
+    color: $grey-light-color;
+
+    &:hover {
+      border-bottom: none;
+      color: $grey-dark-color;
+    }
+  }
+}
+
+/*------------------------------------------------------------------------------
+-- // MAIN
+------------------------------------------------------------------------------*/
+
+.content {
+  margin-top: $spacing-unit * 2;
+  margin-bottom: $spacing-unit * 2;
+}
+
+.post-header { margin-bottom: $spacing-unit; }
+
+.post-title { margin-bottom: $spacing-unit / 4; }
+
+.post-meta {
+  font-weight: 300;
+  text-transform: uppercase;
+  color: $grey-light-color;
+
+  a {
+    border-bottom: none;
+    color: $grey-med-color;
+
+    &:hover { color: $brand-color; }
+  }
+}
+
+.post {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+// Link to view all posts
+// .post-all {
+//   margin-top: $spacing-unit;
+//   color: $grey-med-color;
+//   text-transform: uppercase;
+//
+//   &:hover { color: $brand-color; }
+//
+//   a {
+//     border-bottom: none;
+//     color: $grey-light-color;
+//
+//     &:hover { color: $grey-dark-color; }
+//   }
+// }
+
+.post-all {
+  margin-top: $spacing-unit;
+  color: $grey-light-color;
+  text-transform: uppercase;
+
+  &:hover { color: $brand-color; }
+
+  a {
+    border-bottom: none;
+    color: $grey-med-color;
+
+    &:hover { color: $grey-dark-color; }
+  }
+}
+
+/*------------------------------------------------------------------------------
+-- // FOOTER
+------------------------------------------------------------------------------*/
+
+.site-footer {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  font-size: .889em;
+  color: $grey-light-color;
+
+  @include media-query {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    display: inline-block;
+    padding-right: $spacing-unit / 2;
+
+    &:last-child {
+      padding-right: 0;
+      float: right;
+    }
+  }
+
+  a {
+    border-bottom: none;
+    color: $grey-light-color;
+
+    &:hover {
+      color: $grey-dark-color;
+    }
+  }
+}
+
+/*------------------------------------------------------------------------------
+-- // LIST POSTS
+------------------------------------------------------------------------------*/
+
+.list-posts {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: block;
+    padding-top: $spacing-unit / 8;
+    padding-bottom: $spacing-unit / 8;
+    border-bottom: 1px solid $highlight-color;
+
+    &:hover { border-bottom-color: $brand-color; }
+  }
+
+  a { border-bottom: none; }
+}
+
+.list-date {
+  float: right;
+  margin-left: $spacing-unit / 2;
+  font-size: .889em;
+  font-weight: 300;
+  color: $grey-light-color;
+  text-transform: uppercase;
+
+  @include media-query {
+    display: none;
+  }
+}

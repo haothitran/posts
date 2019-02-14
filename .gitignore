@@ -1,0 +1,12 @@
+# Site
+_drafts/*
+
+# Ruby
+.sass-cache
+_site/*
+Gemfile.lock
+Gemfile
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,229 @@
+/*------------------------------------------------------------------------------
+-- // RESETS
+------------------------------------------------------------------------------*/
+
+html { box-sizing: border-box; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html, body, div, span,
+header, nav, main, article, section, aside, footer,
+h1, h2, h3, h4, h5, h6,
+p, strong, em, b, i, u, a, ul, ol, li,
+blockquote, pre, code, img, audio, video,
+table, caption, thead, tbody, tfoot, tr, th, td,
+form, input {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  font-size: 100%;
+  font-weight: 400;
+  vertical-align: baseline;
+}
+
+header, nav, main, article, section, aside, footer,
+blockquote, pre, img, audio, video,
+table, form {
+  display: block;
+}
+
+/*------------------------------------------------------------------------------
+-- // BASE
+------------------------------------------------------------------------------*/
+
+body {
+  background-color: $background-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  font-weight: normal;
+  line-height: $base-line-height;
+  color: $grey-med-color;
+
+  @include media-query {
+    font-size: $break-font-size;
+    line-height: $break-line-height;
+  }
+}
+
+// Set `margin-bottom` to maintain vertical rhythm
+h1, h2, h3, h4, h5, h6,
+p, ul, ol,
+blockquote, pre, img, audio, video,
+table, form {
+  margin-bottom: $spacing-unit / 2;
+}
+
+/*------------------------------------------------------------------------------
+-- // BASIC ELEMENTS
+------------------------------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  line-height: 1;
+}
+h1 {
+  font-size: 1.5em;
+  color: $grey-dark-color;
+}
+h2 {
+  margin-top: $spacing-unit;
+  font-size: 1.5em;
+  color: $grey-med-color;
+}
+h3 {
+  font-size: 1.125em;
+  color: $grey-med-color;
+}
+
+p {
+  text-align: left;
+
+  &:last-child { margin-bottom: 0; }
+}
+
+em {
+  font-style: italic;
+  color: $grey-dark-color;
+}
+
+strong {
+  font-weight: bold;
+  color: $grey-dark-color;
+}
+
+a {
+  border-bottom: 1px solid $grey-light-color;
+  color: $grey-dark-color;
+  text-decoration: none;
+  @include transition(all .25s ease-in-out);
+
+  &:hover {
+    border-bottom: none;
+    color: $brand-color;
+  }
+}
+
+/*------------------------------------------------------------------------------
+-- // TEXT SELECTION
+------------------------------------------------------------------------------*/
+
+::selection {
+  background-color: $grey-dark-color;
+  color: $highlight-color;
+  text-shadow: none;
+}
+::-moz-selection {
+  background-color: $grey-dark-color;
+  color: $highlight-color;
+  text-shadow: none;
+}
+
+/*------------------------------------------------------------------------------
+-- // LISTS
+------------------------------------------------------------------------------*/
+
+ul {
+  padding-left: $spacing-unit / 2;
+  list-style-type: square;
+
+  ul {
+    margin-top: $spacing-unit / 8;
+    margin-bottom: $spacing-unit / 8;
+  }
+}
+
+ol { padding-left: $spacing-unit / 2; }
+
+/*------------------------------------------------------------------------------
+-- // BLOCKQUOTE
+------------------------------------------------------------------------------*/
+
+blockquote {
+  padding-top: $spacing-unit / 8;
+  padding-bottom: $spacing-unit / 8;
+  padding-left: $spacing-unit / 4;
+  border-left: ($spacing-unit / 8) solid $grey-med-color;
+  color: $grey-dark-color;
+  font-style: italic;
+
+  > :last-child { margin-bottom: 0; }
+}
+
+/*------------------------------------------------------------------------------
+-- // CODE
+------------------------------------------------------------------------------*/
+
+pre,
+code {
+  border: 1px solid $highlight-color;
+  background-color: #ececec;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+  color: $grey-dark-color;
+}
+
+code { padding: 2px 8px; }
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    padding: 0;
+    border: 0;
+    background-color: transparent;
+    color: inherit;
+  }
+}
+
+/*------------------------------------------------------------------------------
+-- // MEDIA
+------------------------------------------------------------------------------*/
+
+img {
+  max-width: 100%;
+  border: 1px solid $highlight-color;
+}
+
+video {
+  max-width: 100%;
+  border: none;
+}
+
+/*------------------------------------------------------------------------------
+-- // TABLE
+------------------------------------------------------------------------------*/
+
+table {
+  display: table;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid $highlight-color;
+  overflow-x: auto;
+
+  th, td {
+    display: table-cell;
+    padding: 4px 20px 4px 8px;
+    font-size: .875em;
+    text-align: left;
+
+    &:last-child { padding-right: 8px; }
+  }
+
+  th {
+    background-color: $highlight-color;
+    font-weight: bold;
+  }
+
+  tr {
+    border-bottom: 1px solid $highlight-color;
+
+    &:hover { background-color: #ececec; }
+
+    &:last-child { border-bottom: none; }
+  }
+}
