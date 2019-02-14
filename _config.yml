@@ -3,7 +3,7 @@ title: Hao Thi Tran
 description: Posts
 
 # site settings
-url: "https://haothitran.github.io/posts"
+url: "https://haothitran.github.io/posts/"
 baseurl: ""
 permalink: /:year/:month/:day/:title
 
