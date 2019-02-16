@@ -7,7 +7,7 @@
     </li>
 
     <li>
-      <a href="/feed.xml" type="application/rss+xml" title="RSS">RSS</a>
+      <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" type="application/rss+xml" title="RSS">RSS</a>
     </li>
 
   </ul>
