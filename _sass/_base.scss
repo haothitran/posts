@@ -113,12 +113,12 @@ a {
 
 ::selection {
   background-color: $grey-dark-color;
-  color: $highlight-color;
+  color: $border-color;
   text-shadow: none;
 }
 ::-moz-selection {
   background-color: $grey-dark-color;
-  color: $highlight-color;
+  color: $border-color;
   text-shadow: none;
 }
 
@@ -159,7 +159,7 @@ blockquote {
 
 pre,
 code {
-  border: 1px solid $highlight-color;
+  border: 1px solid $border-color;
   background-color: #ececec;
   font-family: "Courier New", Courier, monospace;
   font-size: 15px;
@@ -186,7 +186,7 @@ pre {
 
 img {
   max-width: 100%;
-  border: 1px solid $highlight-color;
+  border: 1px solid $border-color;
 }
 
 video {
@@ -202,7 +202,7 @@ table {
   display: table;
   table-layout: fixed;
   border-collapse: collapse;
-  border: 1px solid $highlight-color;
+  border: 1px solid $border-color;
   overflow-x: auto;
 
   th, td {
@@ -215,12 +215,12 @@ table {
   }
 
   th {
-    background-color: $highlight-color;
+    background-color: $border-color;
     font-weight: bold;
   }
 
   tr {
-    border-bottom: 1px solid $highlight-color;
+    border-bottom: 1px solid $border-color;
 
     &:hover { background-color: #ececec; }
 

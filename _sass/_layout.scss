@@ -185,7 +185,7 @@
     display: block;
     padding-top: $spacing-unit / 8;
     padding-bottom: $spacing-unit / 8;
-    border-bottom: 1px solid $highlight-color;
+    border-bottom: 1px solid $border-color;
 
     &:hover { border-bottom-color: $brand-color; }
   }
