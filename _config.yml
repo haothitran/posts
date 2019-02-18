@@ -6,6 +6,7 @@ description: Posts
 url: "https://haothitran.github.io"
 baseurl: "/posts"
 permalink: /:year/:month/:day/:title
+repo: https://github.com/haothitran/posts
 
 # build settings
 markdown: kramdown
