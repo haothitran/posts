@@ -12,7 +12,7 @@ First computer I can specifically remember using was my 13-inch Macbook Pro lapt
 
 ## 2010-12
 
-Needed more power for games than what the Macbook Pro could provide. Specifically for Guild Wars 2 and World of Warcraft: Cataclysm. Purchased a pre-built computer from Canada Computers at Pacific Mall. I can't recall any other components than the ones listed here:
+Needed more power for games than what the Macbook Pro could provide. Specifically for Guild Wars 2 and World of Warcraft: Cataclysm. Purchased a pre-built computer from PC Gate Computers at Pacific Mall. I can't recall any other components than the ones listed here:
 
 | Component   | Item                                          |
 |-------------|-----------------------------------------------|
