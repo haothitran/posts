@@ -12,12 +12,14 @@ First computer I can specifically remember using was my 13-inch Macbook Pro lapt
 
 ## 2010-12
 
-Needed more power for games than what the Macbook Pro could provide. Specifically for Guild Wars 2 and World of Warcraft: Cataclysm. Purchased a pre-built computer from Canada Computers at Pacific Mall.
+Needed more power for games than what the Macbook Pro could provide. Specifically for Guild Wars 2 and World of Warcraft: Cataclysm. Purchased a pre-built computer from Canada Computers at Pacific Mall. I can't recall any other components than the ones listed here:
 
-CPU: Intel Core i5-2500 3.3GHz quad-core processor  
-Motherboard: MSI H61M-P21 B3 LGA1155 micro-ATX motherboard  
-Memory: Kingston 8GB DDR3-1333 (x2 for 16GB)  
-Video card: EVGA GeForce GTX960 2GB video card  
+| Component   | Item                                          |
+|-------------|-----------------------------------------------|
+| CPU         | Intel Core i5-2500 3.3GHz quad-core processor |
+| Motherboard | MSI H61M-P21 B3 LGA1155 micro-ATX motherboard |
+| Memory      | Kingston 8GB DDR3-1333 (x2 for 16GB)          |
+| Video card  | EVGA GeForce GTX960 2GB video card            |
 
 Spent a lot of time messing around with different Linux distributions on this machine.
 
