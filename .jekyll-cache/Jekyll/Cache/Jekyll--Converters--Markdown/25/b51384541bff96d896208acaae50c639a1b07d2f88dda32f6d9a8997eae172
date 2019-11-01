@@ -1,0 +1,311 @@
+I"�<p>A quick look at the history of my personal computers.</p>
+
+<h2 id="first">First</h2>
+
+<p>First computer I can specifically remember using was my 13-inch Macbook Pro laptop running Mac OS X Snow Leopard (verson 10.6). Honestly, I don’t even know why I scrounged up all of my birthday and holiday money to buy this laptop. Probably for dumb cool kid points from my peers at the time. It served as a glorified web surfing machine.</p>
+
+<h2 id="2010-12">2010-12</h2>
+
+<p>Needed more power for games than what the Macbook Pro could provide. Specifically for Guild Wars 2 and World of Warcraft: Cataclysm. Purchased a pre-built computer from PC Gate Computers at Pacific Mall. I can’t recall any other components than the ones listed here:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CPU</td>
+      <td>Intel Core i5-2500 3.3GHz quad-core processor</td>
+    </tr>
+    <tr>
+      <td>Motherboard</td>
+      <td>MSI H61M-P21 B3 LGA1155 micro-ATX motherboard</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>Kingston 8GB DDR3-1333 (x2 for 16GB)</td>
+    </tr>
+    <tr>
+      <td>Video card</td>
+      <td>EVGA GeForce GTX960 2GB video card</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Spent a lot of time messing around with different Linux distributions on this machine.</p>
+
+<h2 id="2018-04">2018-04</h2>
+
+<p>Actually hand-picked components for this build. Moved to a micro-ATX form factor case for its compromise on compact size and parts compatibility. In hindsight, I could’ve just moved components from the pre-built to a smaller case because it was still performing to my needs.</p>
+
+<h3 id="build">Build</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CPU</td>
+      <td>Intel Core i5-7500 3.4GHz quad-core processor</td>
+    </tr>
+    <tr>
+      <td>CPU cooler</td>
+      <td>Cooler Master Hyper 212 EVO 82.9 CFM</td>
+    </tr>
+    <tr>
+      <td>Motherboard</td>
+      <td>MSI B250M BAZOOKA LGA1151 micro-ATX motherboard</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>Kingston HyperX Fury 8GB DDR4-2133 (x2 for 16GB)</td>
+    </tr>
+    <tr>
+      <td>Storage</td>
+      <td>Samsung 850 EVO-series 250GB 2.5” solid state drive (x2)</td>
+    </tr>
+    <tr>
+      <td>Storage</td>
+      <td>Western Digital Caviar Blue 1TB 3.5” 7200RPM hard drive (x2)</td>
+    </tr>
+    <tr>
+      <td>Video card</td>
+      <td>EVGA GeForce GTX 1060 3GB gaming video card</td>
+    </tr>
+    <tr>
+      <td>Case</td>
+      <td>Fractal Design Define Mini C micro-ATX mid-tower case</td>
+    </tr>
+    <tr>
+      <td>PSU</td>
+      <td>EVGA SuperNova NEX 650W 80+Gold-certified fully-modular ATX power supply</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="peripherals">Peripherals</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Monitor</td>
+      <td>BenQ RL2455HM 24” 1920x1080 60Hz monitor</td>
+    </tr>
+    <tr>
+      <td>Monitor</td>
+      <td>BenQ GL2460HM 24” 1920x1080 60Hz monitor</td>
+    </tr>
+    <tr>
+      <td>Monitor mount</td>
+      <td>VIVO STAND-V001M single monitor desk mount (x2)</td>
+    </tr>
+    <tr>
+      <td>Keyboard</td>
+      <td>Leopold FC750R TKL with Black Cherry MX switches</td>
+    </tr>
+    <tr>
+      <td>Mouse</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>Headphones</td>
+      <td>Audio-Technica ATH-M50x headphones</td>
+    </tr>
+    <tr>
+      <td>Amp</td>
+      <td>FiiO E10K Olympus USB DAC and headphone amplifier</td>
+    </tr>
+    <tr>
+      <td>Microphone</td>
+      <td>Audio-Technica AT2035 condenser cardioid studio microphone</td>
+    </tr>
+    <tr>
+      <td>Audio interface</td>
+      <td>Focusrite Scarlett-Solo Gen2 USB audio interface</td>
+    </tr>
+    <tr>
+      <td>Boom arm</td>
+      <td>RODE PSA1 swivel studio microphone boom arm</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="2018-12">2018-12</h2>
+
+<p>Kept getting strange static noise from the Focusrite Scarlette audio interface.</p>
+
+<ul>
+  <li>Audio interface: Behringer UM2 2x2 audio interface</li>
+</ul>
+
+<p>Cost of ink cartridges for all-in-one inkjet printers is ridiculous.</p>
+
+<ul>
+  <li>Scanner: Epson Perfection V39 (4800 x 4800 DPI)</li>
+  <li>Printer: Brother HLL2350DW compact monochrome laser printer</li>
+</ul>
+
+<h2 id="2019-01">2019-01</h2>
+
+<p>Moved to an mini-ITX form factor case. Size restriction was interesting to work with. Pretty neat knowing how much power is packed into a small computer case that I can hold up with one hand.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CPU</td>
+      <td>Intel Core i5-8500 3GHz 6-core processor</td>
+    </tr>
+    <tr>
+      <td>CPU cooler</td>
+      <td>Noctua NH-L9x65 33.84 CFM</td>
+    </tr>
+    <tr>
+      <td>Motherboard</td>
+      <td>MSI B360I gaming pro AC LGA1151 mini-ITX motherboard</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>Corsair Vengeance LPX 8GB DDR4-2666 (x2 for 16GB)</td>
+    </tr>
+    <tr>
+      <td>Storage</td>
+      <td>Samsung 850 EVO-series 250GB 2.5” solid state drive</td>
+    </tr>
+    <tr>
+      <td>Storage</td>
+      <td>Western Digital Blue 1TB 2.5” solid state drive</td>
+    </tr>
+    <tr>
+      <td>Video card</td>
+      <td>EVGA GeForce GTX 1060 6GB gaming video card</td>
+    </tr>
+    <tr>
+      <td>Case</td>
+      <td>Cougar QBX mini-ITX tower case</td>
+    </tr>
+    <tr>
+      <td>PSU</td>
+      <td>Silverstone 500W 80+Gold-certified fully-modular SFX power supply</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="2019-08">2019-08</h2>
+
+<p>Moved to smaller Silverstone SG13 mini-ITX case. Tried to use as many parts from previous build as possible.</p>
+
+<h3 id="build-1">Build</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CPU</td>
+      <td>Intel Core i5-8500 3GHz 6-core processor</td>
+    </tr>
+    <tr>
+      <td>CPU cooler</td>
+      <td>Noctua NH-L9x65 33.84 CFM</td>
+    </tr>
+    <tr>
+      <td>Motherboard</td>
+      <td>MSI B360I gaming pro AC LGA1151 mini-ITX motherboard</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>Corsair Vengeance LPX 8GB DDR4-2666 (x2 for 16GB)</td>
+    </tr>
+    <tr>
+      <td>Storage</td>
+      <td>Western Digital Blue 1TB M.2-2280 Solid State Drive</td>
+    </tr>
+    <tr>
+      <td>Video card</td>
+      <td>EVGA GeForce GTX 1060 6GB gaming video card</td>
+    </tr>
+    <tr>
+      <td>Case</td>
+      <td>Silverstone SG13 mini-ITX tower Case</td>
+    </tr>
+    <tr>
+      <td>PSU</td>
+      <td>Silverstone 500W 80+Gold-certified fully-modular SFX power supply</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="peripherals-1">Peripherals</h3>
+
+<p>Some changes here and there. Previous Leopold keyboard went to the graveyard after an unfortunate accident with spilled coffee. Finally spent some money on a nice monitor. Wireless mice are fantastic.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Monitor</td>
+      <td>Dell S2716DG 27-inch 1440p 144Hz 1ms GTG TN LED G-SYNC gaming Monitor</td>
+    </tr>
+    <tr>
+      <td>Monitor mount</td>
+      <td>VIVO STAND-V001M single monitor desk mount (x2)</td>
+    </tr>
+    <tr>
+      <td>Keyboard</td>
+      <td>Durgod Taurus K310 with Cherry MX switches</td>
+    </tr>
+    <tr>
+      <td>Mouse</td>
+      <td>Logitech G305 LIGHTSPEED wireless gaming mouse in white</td>
+    </tr>
+    <tr>
+      <td>Headphones</td>
+      <td>Audio-Technica ATH-M50x headphones</td>
+    </tr>
+    <tr>
+      <td>Amp</td>
+      <td>FiiO K3 DSD USB-C DAC and headphone amplifier</td>
+    </tr>
+    <tr>
+      <td>Microphone</td>
+      <td>Audio-Technica AT2035 condenser cardioid studio microphone</td>
+    </tr>
+    <tr>
+      <td>Audio interface</td>
+      <td>Behringer UM2 2x2 audio interface</td>
+    </tr>
+    <tr>
+      <td>Boom arm</td>
+      <td>RODE PSA1 swivel studio microphone boom arm</td>
+    </tr>
+  </tbody>
+</table>
+:ET

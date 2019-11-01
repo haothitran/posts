@@ -1,0 +1,43 @@
+I"n<h2 id="general">General</h2>
+
+<ul>
+  <li>Keep work and play separate.</li>
+</ul>
+
+<h2 id="software">Software</h2>
+
+<ul>
+  <li>Use as little software as possible.
+    <ul>
+      <li>Make every piece of software justify being on your machine and in your processes.</li>
+      <li>Sometimes multiple individual tools do things better than a general tool that does many things poorly. Pick the process that will cause the least amount of frustration.</li>
+    </ul>
+  </li>
+  <li>Pay for software that is worth paying for, but only after evaluating them for a while or having incorporated them into your workflow.</li>
+  <li>Remove all traces of software that you no longer use.</li>
+</ul>
+
+<h2 id="hardware">Hardware</h2>
+
+<ul>
+  <li>Always prioritize ergonomics in your setup.
+    <ul>
+      <li>Always choose comfort over aesthetics.</li>
+      <li>Take breaks.</li>
+    </ul>
+  </li>
+  <li>Use as few physical machines as possible.</li>
+  <li>Do not use your phone for tasks that would be more comfortably and effectively accomplished on a computer.</li>
+</ul>
+
+<h2 id="data">Data</h2>
+
+<ul>
+  <li>Keep as much as possible in simple and/or open standard formats. For example, keep notes in plain text instead of a proprietary format for a word processor.</li>
+  <li>Always name dated files in <code class="highlighter-rouge">YYYYMMDD</code> format.</li>
+  <li>Have at least three backup copies of files, with at least one offsite.</li>
+  <li>Run from service providers that make it difficult to export your data.</li>
+</ul>
+
+<p>Inspired by <a href="https://al3x.net/posts/2008/09/08/al3xs-rules-for-computing-happiness.html">Alex Payne</a>.</p>
+:ET
