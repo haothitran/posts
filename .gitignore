@@ -2,8 +2,10 @@
 _drafts/*
 
 # Ruby
+_site
+.jekyll-cache
+.jekyll-metadata
 .sass-cache
-_site/*
 Gemfile.lock
 Gemfile
 
