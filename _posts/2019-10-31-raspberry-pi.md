@@ -31,13 +31,18 @@ Anyway, the RP3 is a neat little package so far.
 > sudo apt=get dist-upgrade
 ```
 
-5. Removed default applications and packages:
+Can also combine commands:
+
+> sudo apt-get update && sudo apt-get upgrade -y
+
+
+## Remove Default Packages
+
+I had installed Raspbian with desktop and recommended software included, but, in hindsight, I should have just installed Raspbian Lite instead. I wanted a barebones Raspbian to work with, and the Lite version would have saved me the trouble of going through this step.
 
 > sudo apt-get purge libreoffice* minecraft-pi woflram-engine -y
 
-I had installed Raspbian with desktop and recommended software included, but, in hindsight, I should have just installed Raspbian Lite instead.  I wanted a barebones Raspbian, and the Lite version would have saved me the trouble of going through this step.
-
-6. Clean up.
+I used this command for every package I wanted to be removed. Just had to find a list of them. For some reason, a number of packages couldn't be removed from the command line, so I had to resort to using the GUI package manager to deal with them.
 
 When installing and updating packages, cache data is kept and gets bigger and bigger. Need to clear the cache:
 
@@ -48,10 +53,6 @@ When installing and updating packages, cache data is kept and gets bigger and bi
 # Remove used packages:
 > sudo apt-get autoremove -y
 ```
-
-7. Update again:
-
-> sudo apt-get update && sudo apt-get upgrade -y
 
 ## Enable SSH
 
