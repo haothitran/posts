@@ -33,14 +33,17 @@ Anyway, the RP3 is a neat little package so far.
 
 Can also combine commands:
 
-> sudo apt-get update && sudo apt-get upgrade -y
-
+```
+sudo apt-get update && sudo apt-get upgrade -y
+```
 
 ## Remove Default Packages
 
 I had installed Raspbian with desktop and recommended software included, but, in hindsight, I should have just installed Raspbian Lite instead. I wanted a barebones Raspbian to work with, and the Lite version would have saved me the trouble of going through this step.
 
-> sudo apt-get purge libreoffice* minecraft-pi woflram-engine -y
+```
+sudo apt-get purge libreoffice* minecraft-pi woflram-engine -y
+```
 
 I used this command for every package I wanted to be removed. Just had to find a list of them. For some reason, a number of packages couldn't be removed from the command line, so I had to resort to using the GUI package manager to deal with them.
 
@@ -50,7 +53,7 @@ When installing and updating packages, cache data is kept and gets bigger and bi
 # Clear cache:
 > sudo apt-get autoclean
 
-# Remove used packages:
+# Remove unused packages:
 > sudo apt-get autoremove -y
 ```
 
@@ -58,15 +61,21 @@ When installing and updating packages, cache data is kept and gets bigger and bi
 
 First have to enable SSH on the Raspberry Pi:
 
-> sudo raspi-config
+```
+sudo raspi-config
+```
 
 Find the SSH configuration settings. Apparently, from what I've read, Raspbian developers move this setting around sometimes through updates. Then, reboot the Pi to make this change permanent:
 
-> sudo reboot
+```
+sudo reboot
+```
 
 Find the IP address for your Pi on your network:
 
-> sudo ifconfig
+```
+sudo ifconfig
+```
 
 Since, I am using Windows on my primary computer, I had to download [PuTTY](http://www.putty.org/). Enter the IP address for the Pi found from earlier, then open the connection. This will give you a warning (the first time) and then prompt you for the user (“pi”) and password (“raspberry”).
 
