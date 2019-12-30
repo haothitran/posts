@@ -4,7 +4,7 @@ description: Posts
 
 # site settings
 url: "https://haothitran.com"
-baseurl: "/posts"
+baseurl: "/"
 permalink: /:year/:month/:day/:title
 repo: https://github.com/haothitran/posts
 
