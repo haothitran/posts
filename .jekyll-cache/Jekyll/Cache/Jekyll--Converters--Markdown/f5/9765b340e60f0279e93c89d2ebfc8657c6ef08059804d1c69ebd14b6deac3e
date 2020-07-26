@@ -1,4 +1,4 @@
-I"n<h2 id="general">General</h2>
+I"Å<h2 id="general">General</h2>
 
 <ul>
   <li>Keep work and play separate.</li>
@@ -34,7 +34,7 @@
 
 <ul>
   <li>Keep as much as possible in simple and/or open standard formats. For example, keep notes in plain text instead of a proprietary format for a word processor.</li>
-  <li>Always name dated files in <code class="highlighter-rouge">YYYYMMDD</code> format.</li>
+  <li>Always name dated files in <code class="language-plaintext highlighter-rouge">YYYYMMDD</code> format.</li>
   <li>Have at least three backup copies of files, with at least one offsite.</li>
   <li>Run from service providers that make it difficult to export your data.</li>
 </ul>

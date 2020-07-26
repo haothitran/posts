@@ -1,4 +1,4 @@
-I"Ò<p>It is undeniable that the stationery market is oversaturated with options. There are thousands of planning templates and systems out there that promise to organize your life. There is even an endless sea of digital productivity apps and services constantly being churned out which promise the same. Yet, trying to find one that works for you seems like an impossibility.</p>
+I"ø<p>It is undeniable that the stationery market is oversaturated with options. There are thousands of planning templates and systems out there that promise to organize your life. There is even an endless sea of digital productivity apps and services constantly being churned out which promise the same. Yet, trying to find one that works for you seems like an impossibility.</p>
 
 <p>Iâ€™m the type of person that needs to break down large projects into smaller, manageable, actionable tasks. However, if I donâ€™t schedule these small tasks, then they become just another item on my wish list to get done. This is a problem. I lose track of where I am in projects. I forget to do certain tasks. I waste time backtracking my steps. I am less productive.</p>
 
@@ -52,9 +52,9 @@
 
 <h2 id="result">Result</h2>
 
-<p>In keeping with its name, my dash journal system is built on using dashes (<code class="highlighter-rouge">-</code>) in a list-style format in a commonplace notebook. Here is the legend that I use:</p>
+<p>In keeping with its name, my dash journal system is built on using dashes (<code class="language-plaintext highlighter-rouge">-</code>) in a list-style format in a commonplace notebook. Here is the legend that I use:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># title
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># title
 # YYYYMMDD dated entry title
 - note
 - task item

@@ -1,4 +1,4 @@
-I"u<p>It took years for me to figure out what note-taking system worked best for me to comprehend and retain information. After experimenting with different methods each school semester, I have developed a system that worked for me:</p>
+I"�<p>It took years for me to figure out what note-taking system worked best for me to comprehend and retain information. After experimenting with different methods each school semester, I have developed a system that worked for me:</p>
 
 <ol>
   <li>Before lecture, read associated non-lecture materials.</li>
@@ -66,9 +66,9 @@
 
 <h2 id="organizing-folder-structure">Organizing Folder Structure</h2>
 
-<p>Here is how I organize my courses and individual lecture notes into folders. By using <code class="highlighter-rouge">_</code> before the course code, I can ensure that my current semester’s courses remain at the top of the list for quick and easy accessibility. When the semester is over, I remove the <code class="highlighter-rouge">_</code> from current course folders for next semester’s round of courses.</p>
+<p>Here is how I organize my courses and individual lecture notes into folders. By using <code class="language-plaintext highlighter-rouge">_</code> before the course code, I can ensure that my current semester’s courses remain at the top of the list for quick and easy accessibility. When the semester is over, I remove the <code class="language-plaintext highlighter-rouge">_</code> from current course folders for next semester’s round of courses.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>school-notes/
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>school-notes/
 ├── _CRM102-introduction-to-criminology/
 ├─┬ _SOC483-advanced-statistical-nodeling/
 │ ├── 00-course-outline

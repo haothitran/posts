@@ -1,6 +1,6 @@
-I"�<p>I feel like I am constantly fighting a war with word processors. They behave in infuriatingly odd ways or completely crash for no apparent reason. This is extremely frustrating when I am trying to work with a short deadline looming over me.</p>
+I"�<p>I feel like I am constantly fighting a war with word processors. They behave in infuriatingly odd ways or completely crash for no apparent reason. This is extremely frustrating when I am trying to work with a short deadline looming over me.</p>
 
-<p>Every time I open a <code class="highlighter-rouge">*.doc</code> or <code class="highlighter-rouge">*.odt</code> file, my lungs burn because I hold my breath as it slowly fires up and proceeds to open my personal notes and school notes. Exhaling in relief when it loads successfully without any occurrence of data loss. It is ridiculous; I shouldn’t feel this way about a tool I frequently use and rely on to get work done. And lets not even get started on how troublesome <code class="highlighter-rouge">*.ppt</code> files are to handle.</p>
+<p>Every time I open a <code class="language-plaintext highlighter-rouge">*.doc</code> or <code class="language-plaintext highlighter-rouge">*.odt</code> file, my lungs burn because I hold my breath as it slowly fires up and proceeds to open my personal notes and school notes. Exhaling in relief when it loads successfully without any occurrence of data loss. It is ridiculous; I shouldn’t feel this way about a tool I frequently use and rely on to get work done. And lets not even get started on how troublesome <code class="language-plaintext highlighter-rouge">*.ppt</code> files are to handle.</p>
 
 <p>I’ve come to realize that the traditional word processor is not the right tool to use when you are just writing.</p>
 
@@ -8,7 +8,7 @@
 
 <p>For school, I have to consolidate a lot of information from different sources and media. I need to gather information from lectures, textbooks, journal articles, newspapers, slides, images, and videos. And I want to do this without having to resort to this nonsense:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>school-notes/
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>school-notes/
 ├─┬ ABC101-course-name/
 │ ├── 00-course-outline.doc
 │ ├── 01-introduction.doc
@@ -31,9 +31,9 @@
 
 <p>Also, since it only contains raw text data, it is very stable and sustainable. It is one of the simplest file formats that continues to be relevant. I don’t even think plain text has changed much since its conception, if at all. And ever heard of someone losing access to a plain text file? I haven’t.</p>
 
-<p>Of course, there are strict limitations. Most obvious is its inherent incapability to handle multimedia content. Usually, I can make do by writing a small description of an image or summarizing a video. When that doesn’t work, I reference the file in my notes like <code class="highlighter-rouge">[see 01-video.mp4]</code> and save the files like this:</p>
+<p>Of course, there are strict limitations. Most obvious is its inherent incapability to handle multimedia content. Usually, I can make do by writing a small description of an image or summarizing a video. When that doesn’t work, I reference the file in my notes like <code class="language-plaintext highlighter-rouge">[see 01-video.mp4]</code> and save the files like this:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>school-notes/
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>school-notes/
 ├─┬ SOC105-introduction-to-sociology
 │ ├── 00-course-outline
 │ ├── 01-introduction
@@ -44,11 +44,11 @@
 └── ...
 </code></pre></div></div>
 
-<p>Another limitation is that there is no simple way to handle mathematical equations or tabular data. You can write basic equations with addition <code class="highlighter-rouge">+</code>, subtraction <code class="highlighter-rouge">-</code>, multiplication <code class="highlighter-rouge">*</code>, and division <code class="highlighter-rouge">/</code>. However, anything more mathematically complex would be too messy to be considered reasonable to type. Although I think it is better to take handwritten notes for this kind of material.</p>
+<p>Another limitation is that there is no simple way to handle mathematical equations or tabular data. You can write basic equations with addition <code class="language-plaintext highlighter-rouge">+</code>, subtraction <code class="language-plaintext highlighter-rouge">-</code>, multiplication <code class="language-plaintext highlighter-rouge">*</code>, and division <code class="language-plaintext highlighter-rouge">/</code>. However, anything more mathematically complex would be too messy to be considered reasonable to type. Although I think it is better to take handwritten notes for this kind of material.</p>
 
 <p>I think the lack of features in plain text is one of its greatest draws for me. Since it only handles raw text, I am not distracted from my work. This is great for writing essays where I sometimes procrastinate from actually writing by playing around with formatting; trying to convince myself into believing that I am still technically working on my essay. I can focus on writing content because that is all there is to do when working with plain text.</p>
 
-<p>I have also converted my personal reference notes to plain text too. I’ve dumped all my short notes that I need to quickly access in a file named <code class="highlighter-rouge">_inbox.txt</code> so it always stays at the top of the folder structure. Dated notes are named in this format <code class="highlighter-rouge">YYYY-MM-DD-title.txt</code> for chronological order. I keep titles as descriptive as possible so that there is never any question to what is in each text file. So far this system has worked out well.</p>
+<p>I have also converted my personal reference notes to plain text too. I’ve dumped all my short notes that I need to quickly access in a file named <code class="language-plaintext highlighter-rouge">_inbox.txt</code> so it always stays at the top of the folder structure. Dated notes are named in this format <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-title.txt</code> for chronological order. I keep titles as descriptive as possible so that there is never any question to what is in each text file. So far this system has worked out well.</p>
 
 <p>Being able to quickly load my notes in any text editor and be typing in seconds has been a wonderful quality of life change from using word processors. It goes to show that sometimes the best tool for the job might potentially be an old one that has stood the test of time.</p>
 :ET

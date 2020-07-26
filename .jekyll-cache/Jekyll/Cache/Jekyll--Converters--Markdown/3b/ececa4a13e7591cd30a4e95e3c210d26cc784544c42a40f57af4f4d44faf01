@@ -1,10 +1,10 @@
-I"Ì<p>A few weeks ago, I came across this lightweight markup language called <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. It is a syntax used on plain text to indicate various kinds of formatting you want to apply when it is converted into another format.</p>
+I"><p>A few weeks ago, I came across this lightweight markup language called <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. It is a syntax used on plain text to indicate various kinds of formatting you want to apply when it is converted into another format.</p>
 
-<p>I like that you can signify formatting for plain text without leaving the keyboard. It has a small learning curve; you only need to learn where to put asterisks (<code class="highlighter-rouge">*</code>), dashes (<code class="highlighter-rouge">-</code>), backticks (<code class="highlighter-rouge">`</code>), and pound signs (<code class="highlighter-rouge">#</code>) to format text. For example, you use <code class="highlighter-rouge">*single asterisks*</code> surrounding text to <em>emphasize</em> it. Keeps notes simple to write and easy to read.</p>
+<p>I like that you can signify formatting for plain text without leaving the keyboard. It has a small learning curve; you only need to learn where to put asterisks (<code class="language-plaintext highlighter-rouge">*</code>), dashes (<code class="language-plaintext highlighter-rouge">-</code>), backticks (<code class="language-plaintext highlighter-rouge">`</code>), and pound signs (<code class="language-plaintext highlighter-rouge">#</code>) to format text. For example, you use <code class="language-plaintext highlighter-rouge">*single asterisks*</code> surrounding text to <em>emphasize</em> it. Keeps notes simple to write and easy to read.</p>
 
 <p>Markdown still has many of the same limitations as plain text. However, it provides a way to create simple tables. Here is an example of a table using Markdown syntax:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>| Level | Talent 1          | Talent 2           | Talent 3          |
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>| Level | Talent 1          | Talent 2           | Talent 3          |
 | ----- | ----------------- | ------------------ | ----------------- |
 | 56    | Rolling Blood     | Plague Leech       | Unholy Blight     |
 | 57    | Lichborne         | Anti-Magic Zone    | Purgatory         |
