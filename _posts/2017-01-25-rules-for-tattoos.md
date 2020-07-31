@@ -2,8 +2,9 @@
 layout: post
 title: Rules for Tattoos
 date: 2017-01-25
-tags: rules tattoos
 ---
+
+# Rules for Tattoos
 
 I have developed a set of personal rules when I am considering getting a tattoo.
 

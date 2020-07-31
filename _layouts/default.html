@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
+<html lang="en" class="theme-light">
+  
   {% include head.html %}
 
   <body>
@@ -9,13 +9,26 @@
 
       {% include header.html %}
 
+      {% include nav.html %}
+
       <main class="content">
+
         {{ content }}
+        
       </main>
 
-      {% include footer.html %}
-
     </div>
+
+    {% include footer.html %}
+
+    <div class="theme-switch-wrapper">
+      <label id="theme-switch" class="theme-switch">
+        <input type="checkbox" onchange="toggleTheme()" id="theme-slider">
+        <span class="theme-slider round"></span>
+      </label>
+    </div>
+
+    <script src="{{ "/assets/theme.js" | relative_url }}"></script>
 
   </body>
 

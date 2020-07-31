@@ -4,6 +4,8 @@ title: Take Plain Text Notes
 date: 2013-12-02
 ---
 
+# Take Plain Text Notes
+
 I feel like I am constantly fighting a war with word processors. They behave in infuriatingly odd ways or completely crash for no apparent reason. This is extremely frustrating when I am trying to work with a short deadline looming over me.
 
 Every time I open a `*.doc` or `*.odt` file, my lungs burn because I hold my breath as it slowly fires up and proceeds to open my personal notes and school notes. Exhaling in relief when it loads successfully without any occurrence of data loss. It is ridiculous; I shouldn't feel this way about a tool I frequently use and rely on to get work done. And lets not even get started on how troublesome `*.ppt` files are to handle.

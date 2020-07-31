@@ -4,6 +4,8 @@ title: Listening to Podcasts
 date: 2016-02-20
 ---
 
+# Listening to Podcasts
+
 Over the last year, I've rediscovered the vast world of podcasts and how well they fit into my lifestyle. Rediscovering meaning that I've discovered how much easier it is to listen to podcasts now compared to just even a few years ago. Smartphones and podcast apps have made it easy to subscribe, download, and keep up with shows.
 
 I've become quite an avid listener due to my commutes to and from school. Some of the shows I listen to are of the educational variety which is funny because that means I basically spend my entire day out learning something new. Other shows are just for the pure entertainment value I get out of them.

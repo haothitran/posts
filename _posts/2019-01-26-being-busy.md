@@ -4,6 +4,8 @@ title: Being Busy
 date: 2019-01-26
 ---
 
+# Being Busy
+
 Life gets busy sometimes. However, I think that a lot of people are under the illusion that they are busy. Rather, in fact, people feel busy because they are constantly overwhelmed.
 
 We live in a modern world where we have privileges and freedoms that we've never had before. Our quality of life has greatly increased from just the past couple decades; a short span of time in relation to the entirety of our human existence. However, those things come at a cost because every choice requires a decision to be made, and every decision requires our focus. Unfortunately, focus is not something we have in abundance anymore.

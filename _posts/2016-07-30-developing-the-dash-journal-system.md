@@ -4,6 +4,8 @@ title: Developing the Dash Journal System
 date: 2016-07-30
 ---
 
+# Developing the Dash Journal System
+
 It is undeniable that the stationery market is oversaturated with options. There are thousands of planning templates and systems out there that promise to organize your life. There is even an endless sea of digital productivity apps and services constantly being churned out which promise the same. Yet, trying to find one that works for you seems like an impossibility.
 
 I'm the type of person that needs to break down large projects into smaller, manageable, actionable tasks. However, if I don't schedule these small tasks, then they become just another item on my wish list to get done. This is a problem. I lose track of where I am in projects. I forget to do certain tasks. I waste time backtracking my steps. I am less productive.

@@ -1,25 +1,19 @@
 # site information
-title: Hao Thi Tran
+title: Hao Tran
 description: Posts
 
 # site settings
 url: "https://haothitran.com"
 baseurl: "/"
-permalink: /:year/:month/:day/:title
+permalink: /posts/:year/:month/:day/:title
 repo: https://github.com/haothitran/posts
-
-# build settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighting: rouge
-highlighter: rouge
 
 # build settings
 include: ["_pages"]
 
 # author information
-author: Hao Thi Tran
-email: hello@haothitran.com
-website: https://haothitran.com/
-git: https://github.com/haothitran/
+author:
+  name: Hao Tran
+  email: hello@haothitran.com
+  website: https://haothitran.com/
+  git: https://github.com/haothitran/

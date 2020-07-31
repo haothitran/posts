@@ -4,6 +4,8 @@ title: History of My Personal Computers
 date: 2019-10-20
 ---
 
+# History of My Personal Computers
+
 A quick look at the history of my personal computers.
 
 ## First
@@ -15,7 +17,7 @@ First computer I can specifically remember using was my 13-inch Macbook Pro lapt
 Needed more power for games than what the Macbook Pro could provide. Specifically for Guild Wars 2 and World of Warcraft: Cataclysm. Purchased a pre-built computer from PC Gate Computers at Pacific Mall. I can't recall any other components than the ones listed here:
 
 | Component   | Item                                          |
-|-------------|-----------------------------------------------|
+| ----------- | --------------------------------------------- |
 | CPU         | Intel Core i5-2500 3.3GHz quad-core processor |
 | Motherboard | MSI H61M-P21 B3 LGA1155 micro-ATX motherboard |
 | Memory      | Kingston 8GB DDR3-1333 (x2 for 16GB)          |
@@ -30,7 +32,7 @@ Actually hand-picked components for this build. Moved to a micro-ATX form factor
 ### Build
 
 | Component   | Item                                                                     |
-|-------------|--------------------------------------------------------------------------|
+| ---------- -| ------------------------------------------------------------------------ |
 | CPU         | Intel Core i5-7500 3.4GHz quad-core processor                            |
 | CPU cooler  | Cooler Master Hyper 212 EVO 82.9 CFM                                     |
 | Motherboard | MSI B250M BAZOOKA LGA1151 micro-ATX motherboard                          |
@@ -44,7 +46,7 @@ Actually hand-picked components for this build. Moved to a micro-ATX form factor
 ### Peripherals
 
 | Component       | Item                                                       |
-|-----------------|------------------------------------------------------------|
+| --------------- | ---------------------------------------------------------- |
 | Monitor         | BenQ RL2455HM 24" 1920x1080 60Hz monitor                   |
 | Monitor         | BenQ GL2460HM 24" 1920x1080 60Hz monitor                   |
 | Monitor mount   | VIVO STAND-V001M single monitor desk mount (x2)            |
@@ -72,7 +74,7 @@ Cost of ink cartridges for all-in-one inkjet printers is ridiculous.
 Moved to an mini-ITX form factor case. Size restriction was interesting to work with. Pretty neat knowing how much power is packed into a small computer case that I can hold up with one hand.
 
 | Component   | Item                                                              |
-|-------------|-------------------------------------------------------------------|
+| ----------- | ----------------------------------------------------------------- |
 | CPU         | Intel Core i5-8500 3GHz 6-core processor                          |
 | CPU cooler  | Noctua NH-L9x65 33.84 CFM                                         |
 | Motherboard | MSI B360I gaming pro AC LGA1151 mini-ITX motherboard              |
@@ -91,7 +93,7 @@ Moved to smaller Silverstone SG13 mini-ITX case. Tried to use as many parts from
 ### Build
 
 | Component   | Item                                                              |
-|-------------|-------------------------------------------------------------------|
+| ----------- | ----------------------------------------------------------------- |
 | CPU         | Intel Core i5-8500 3GHz 6-core processor                          |
 | CPU cooler  | Noctua NH-L9x65 33.84 CFM                                         |
 | Motherboard | MSI B360I gaming pro AC LGA1151 mini-ITX motherboard              |
@@ -106,7 +108,7 @@ Moved to smaller Silverstone SG13 mini-ITX case. Tried to use as many parts from
 Some changes here and there. Previous Leopold keyboard went to the graveyard after an unfortunate accident with spilled coffee. Finally spent some money on a nice monitor. Wireless mice are fantastic.
 
 | Component       | Item                                                                  |
-|-----------------|-----------------------------------------------------------------------|
+| --------------- | --------------------------------------------------------------------- |
 | Monitor         | Dell S2716DG 27-inch 1440p 144Hz 1ms GTG TN LED G-SYNC gaming Monitor |
 | Monitor mount   | VIVO STAND-V001M single monitor desk mount (x2)                       |
 | Keyboard        | Durgod Taurus K310 with Cherry MX switches                            |

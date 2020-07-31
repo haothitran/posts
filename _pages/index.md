@@ -22,7 +22,7 @@ Most of these posts were written for selfish reasons—wanting to vaguely keep t
 
     <ul class="list-posts">
       <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           <span class="list-date">{{ post.date | date: "%b %d" }}</span>
       </li>
     </ul>

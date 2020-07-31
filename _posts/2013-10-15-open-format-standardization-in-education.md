@@ -4,6 +4,8 @@ title: Open Format Standardization in Education
 date: 2013-10-15
 ---
 
+# Open Format Standardization in Education
+
 I have a problem with higher level education.
 
 Universities and colleges purport being bastions of knowledge who generously impart upon their students valuable information, skills, and credentials—only for a small fee called tuition, of course. However, there is a discrepancy in what they preach and their operations. Namely, why don't schools standardize using open file formats for their materials?

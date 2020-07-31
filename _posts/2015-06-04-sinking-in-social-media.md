@@ -4,6 +4,8 @@ title: Sinking in Social Media
 date: 2015-06-04
 ---
 
+# Sinking in Social Media
+
 I've developed a habit of constantly checking social media. Unconsciously, I'd take out my phone or open a new browser tab on my computer and mindlessly scroll through social feeds I don't even care about. But when someone else does it, I can see how stupid it is to literally lose your life trying to keep up on how other people are living—or, rather, curating their pages. And I want to stop this.
 
 Social media is a constant source of non-actionable distraction. Attention is pulled away from what you are working on towards something that probably doesn't even deserve it. There is nothing I can do when I receive a new notification. Most of the time, I can only say, "Oh, that's nice." That's it. Even worse is that even when I don't have a notification waiting for me, I still pick up my phone to see what I missed to get that instant rush of dopamine.

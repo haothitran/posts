@@ -4,6 +4,8 @@ title: On the Train from Montreal
 date: 2018-06-16
 ---
 
+# On the Train from Montreal
+
 I took a train to Montreal to visit a friend. Nice way to travel.
 
 We enjoyed a few afternoon drinks at a bar. Watching people pass by the open windows while we tried to soothe the oppressive heat with icy cold drinks, but which just created a warm blaze in our chests. Later, we danced into the early morning hours at the hottest night club looking classy in the VIP section. We passed out after having terrible pizza from the parlour next door.

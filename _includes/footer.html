@@ -1,15 +1,13 @@
 <footer class="site-footer">
+  <div class="wrapper">
 
-  <ul>
+    <ul>
 
-    <li>
-      Copyright &#169; 2013&#8211;{{ site.time | date: '%Y' }} <a href="{{ site.website }}" title="{{ site.author }}">{{ site.author }}</a>.
-    </li>
+      <li>Copyright &#169; 2013&#8211;{{ site.time | date: '%Y' }} <a href="{{ site.author.website }}" title="{{ site.author.name }}">{{ site.author.name }}</a>.</li>
+      <li><a href="{{ "/feed.xml" | relative_url }}" type="application/rss+xml" title="RSS">RSS</a></li>
 
-    <li>
-      <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" type="application/rss+xml" title="RSS">RSS</a>
-    </li>
+    </ul>
 
-  </ul>
-
+  </div>
+  
 </footer>

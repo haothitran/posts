@@ -4,6 +4,8 @@ title: Simple Joys
 date: 2017-05-24
 ---
 
+# Simple Joys
+
 - Removing labels from products.
 - Ripping perforated paper.
 - Running into an old friend in the wild who you haven't seen in a long time.

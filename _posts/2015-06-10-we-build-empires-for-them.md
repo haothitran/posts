@@ -4,6 +4,8 @@ title: We Build Empires for Them
 date: 2015-06-10
 ---
 
+# We Build Empires for Them
+
 Social media networks have turned our finite attention into a commodity amongst themselves. Our most precious currencies: time and attention, are being spent to create global social networks for companies.
 
 And we are continuously feeding them.

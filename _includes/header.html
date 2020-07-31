@@ -1,17 +1,5 @@
 <header class="site-header">
 
-  <a class="site-title" href="{{ site.website }}" title="{{ site.title }}">{{ site.title }}</a>
-
-  <nav class="site-nav">
-
-    <ul>
-
-      {% for nav in site.data.nav %}
-        <li><a href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.title }}">{{ nav.title }}</a></li>
-      {% endfor %}
-
-    </ul>
-
-  </nav>
+  <a class="site-title" href="{{ site.url }}" title="{{ site.title }}">{{ site.title }}</a>
 
 </header>
