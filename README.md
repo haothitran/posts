@@ -25,7 +25,7 @@ This repository contains the source files for my [personal posts](https://haothi
 | Selection Background  | ![#64ffda](https://via.placeholder.com/15/555564?text=+) `#555564` |
 | Selection Font        | ![#64ffda](https://via.placeholder.com/15/ffffff?text=+) `#ffffff` |
 | Footer Background     | ![#64ffda](https://via.placeholder.com/15/3a3a3a?text=+) `#3a3a3a` |
-| Footer Font           | ![#64ffda](https://via.placeholder.com/15/3a3a3a?text=+) `#3a3a3a` |
+| Footer Font           | ![#64ffda](https://via.placeholder.com/15/9ca1b4?text=+) `#9ca1b4` |
 
 ### Dark Theme 
 
