@@ -3,5 +3,5 @@ _drafts/*
 
 # Ruby
 _site
-.jekyll-cache/
+.jekyll-cache
 .jekyll-metadata
