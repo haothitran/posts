@@ -6,7 +6,7 @@ permalink: /projects
 
 # Projects 
 
-A list of personal projects. Most of these are small digital playgrounds that I created for a specific purpose that I revisit once in a while, usually to update the code to keep up with new expected standards or to experiment with new available techniques. Includes projects that are no longer active.
+A list of personal projects. Most of these are small digital playgrounds that I created for a specific purpose that I revisit once in a while, usually to update code to keep up with new expected standards or to experiment with new available techniques. Includes projects that are no longer active.
 
 ## Klazerville
 
@@ -16,7 +16,9 @@ I created this site out of frustration with existing FFXIV online resources. Som
 
 So, I decided to solve this issue by making my own FFXIV reference guide. It is a huge project to undertake, especially since existing content can change drastically with future patches or expansions, so this project will always be a work in progress. 
 
-Currently, this site is powered by [Gitbook](https://www.gitbook.com/) until I find a better alternative, or have the time to create my own wiki site. All content is personally verified by my in-game experiences.
+Currently, this site is powered by [Gitbook](https://www.gitbook.com/) until I find a better alternative. 
+
+All content is personally verified by my in-game experiences.
 
 - [View site](https://www.klazerville.com/).
 - [View git repository](https://github.com/haothitran/klazerville).
@@ -32,7 +34,7 @@ Displays current browser size (width by height) in pixels.
 
 ## Reckless Ambition
 
-A landing page for a progressive World of Warcraft weekend raiding guild on Area-52 (US) server. Used to raid with this team during the latter half of Legion and periodically throughout Battle for Azeroth expansions. This site is not frequently updated.
+A landing page for a progressive World of Warcraft raiding guild on Area-52 (US) server. I used to raid with this team during the latter half of Legion and periodically throughout Battle for Azeroth expansions. This site is not frequently updated.
 
 - [View site](https://reckless-ambition.com/).
 - [View git repository](https://github.com/haothitran/reckless-ambition).
