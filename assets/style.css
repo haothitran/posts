@@ -104,8 +104,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: calc(var(--spacing-unit) / 2);
-  line-height: 1.2;
   font-weight: 700;
+  line-height: 1.2;
   color: var(--color-emphasize-font);
 }
 
@@ -437,32 +437,23 @@ th {
   margin: auto 0;
   content: '';
   box-shadow: 0 0px 15px #2020203d;
-  background: white url('/assets/icon-sun.png');
+  background: #fff url('/assets/icon-sun.png');
   background-repeat: no-repeat;
   background-position: center;
-  transition: 0.4s;
+  transition: .4s;
 }
 
-input:checked + .theme-slider {
-  background-color: var(--color-accent);
-}
+input:checked + .theme-slider { background-color: var(--color-accent); }
 
-input:focus + .theme-slider {
-  box-shadow: 0 0 1px #464646;
-}
+input:focus + .theme-slider { box-shadow: 0 0 1px #464646; }
 
 input:checked + .theme-slider:before {
-  background: white url('/assets/icon-moon.png');
+  background: #fff url('/assets/icon-moon.png');
   background-repeat: no-repeat;
   background-position: center;
   transform: translateX(24px);
 }
 
 /* Rounded sliders */
-.theme-slider.round {
-  border-radius: 34px;
-}
-
-.theme-slider.round:before {
-  border-radius: 50%;
-}
+.theme-slider.round { border-radius: 34px; }
+.theme-slider.round:before { border-radius: 50%; }
