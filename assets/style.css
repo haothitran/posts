@@ -342,13 +342,11 @@ th {
 .list-date {
   float: right;
   margin-left: calc(var(--spacing-unit) / 2);
-  font-weight: 300;
   color: var(--color-secondary-font);
 }
 
 .post-meta {
   margin-top: calc(var(--spacing-unit) * 2);
-  font-weight: 300;
   color: var(--color-secondary-font);
 }
 
