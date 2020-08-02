@@ -18,12 +18,12 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 form, input {
   margin: 0;
   padding: 0;
-  border: 0;
-  background: transparent;
   font: inherit;
   font-size: 100%;
   font-weight: normal;
   vertical-align: baseline;
+  border: 0;
+  background: transparent;
 }
 
 header, nav, main, article, section, aside, footer,
@@ -44,41 +44,41 @@ form {
 }
 
 .theme-light {
-  --color-border: #dbdbdb;
-  --color-primary-background: #fafafa;
-  --color-secondary-background: #ecedef;
-
   --color-primary-font: #424242;
   --color-secondary-font: #696969;
   --color-emphasize-font: #2c2c2c; 
 
+  --color-border: #dbdbdb;
+  --color-primary-background: #fafafa;
+  --color-secondary-background: #ecedef;
+
   --color-accent: #c41f3b;
   --color-links: #86071d;
-
-  --color-selection-background: #555564;
+  
   --color-selection-font: #fff;
-
-  --color-footer-background: #3a3a3a;
+  --color-selection-background: #555564;
+  
   --color-footer-font: #9ca1b4;
+  --color-footer-background: #3a3a3a;
 }
 
 .theme-dark {
-  --color-border: #303C55;
-  --color-primary-background: #0a192f;
-  --color-secondary-background: #142740;
-
   --color-primary-font: #9faed6;
   --color-secondary-font: #8892b0;
   --color-emphasize-font: #e6f1ff; 
 
+  --color-border: #303C55;
+  --color-primary-background: #0a192f;
+  --color-secondary-background: #142740;
+
   --color-accent: #64ffda;
   --color-links: #64ffda;
   
-  --color-selection-background: #8892b0;
   --color-selection-font: #fff;
+  --color-selection-background: #8892b0;
 
-  --color-footer-background: #172a45;
   --color-footer-font: #b3b9c9;
+  --color-footer-background: #172a45;
 }
 
 /*------------------------------------------------------------------------------
@@ -91,12 +91,12 @@ body {
   display: flex;          /* For pushing footer to bottom of page */
   flex-direction: column; /* For pushing footer to bottom of page */
   height: 100%;           /* For pushing footer to bottom of page */
-  background-color: var(--color-primary-background);
   font-family: 'Lato', sans-serif;
   font-size: 18px; 
   font-weight: 400; 
   line-height: 1.5; 
   color: var(--color-primary-font);
+  background-color: var(--color-primary-background);
 }
 
 /* -- HEADINGS
@@ -141,10 +141,10 @@ a:before {
   left: 0;
   width: 0;
   height: 2px;
-  background-color: var(--color-accent);
+  content: '';
   visibility: hidden;
+  background-color: var(--color-accent);
   transition: all .3s ease-in-out;
-  content: "";
 }
 a:hover:before {
   width: 100%;
@@ -152,8 +152,8 @@ a:hover:before {
 }
 
 ::selection {
-  background-color: var(--color-selection-background);
   color: var(--color-selection-font);
+  background-color: var(--color-selection-background);
 }
 
 
@@ -182,9 +182,9 @@ ul ul {
   padding-top: calc(var(--spacing-unit) / 8);
   padding-bottom: calc(var(--spacing-unit) / 8);
   padding-left: calc(var(--spacing-unit) / 4);
-  border-left: calc(var(--spacing-unit) / 8); solid var(--color-border);
-  color: var(--color-secondary-font);
   font-style: italic;
+  color: var(--color-secondary-font);
+  border-left: calc(var(--spacing-unit) / 8); solid var(--color-border);
 } */
 
 /* -- CODE
@@ -192,31 +192,31 @@ ul ul {
 
 pre,
 code {
-  background-color: var(--color-secondary-background);
   font-family: "Courier New", Courier, monospace;
   font-size: 14px;
   color: var(--color-emphasize-font);
+  background-color: var(--color-secondary-background);
 }
 
 code { 
-  border: 1px solid var(--color-border);
   padding: 2px 8px; 
+  border: 1px solid var(--color-border);
 }
 
 pre {
   margin-bottom: calc(var(--spacing-unit) / 2);
   padding: 8px 12px;
+  overflow-x: auto;
   border-top: 1px solid var(--color-border);
   border-right: 1px solid var(--color-border);
   border-bottom: 1px solid var(--color-border);
   border-left: 4px solid var(--color-border);
-  overflow-x: auto;
 }
 pre code {
   padding: 0;
+  color: inherit;
   border: 0;
   background-color: transparent;
-  color: inherit;
 }
 
 /* -- MEDIA
@@ -258,9 +258,9 @@ th:last-child,
 td:last-child { padding-right: calc(var(--spacing-unit) / 4); }
 
 th {
+  font-weight: 700;
   border-bottom: 1px solid var(--color-border);
   background-color: var(--color-secondary-background);
-  font-weight: 700;
 }
 
 /*------------------------------------------------------------------------------
@@ -283,12 +283,12 @@ th {
 .site-header { margin-top: var(--spacing-unit); }
 
 .site-title {
-  border-bottom: none; 
   font-size: 2em; 
   font-weight: 700;
-  text-transform: uppercase;
   color: var(--color-emphasize-font);
   letter-spacing: 1px;
+  text-transform: uppercase;
+  border-bottom: none; 
 }
 
 /* -- NAV
@@ -309,8 +309,8 @@ th {
 
 .site-nav a {
   display: block;
-  border-bottom: none;
   color: var(--color-secondary-font);
+  border-bottom: none;
 }
 .site-nav a:hover { color: var(--color-emphasize); }
 
@@ -352,8 +352,8 @@ th {
 
 .post-all { margin-top: var(--spacing-unit); }
 .post-all a {
-  text-transform: uppercase;
   color: var(--color-emphasize-font); 
+  text-transform: uppercase;
 }
 
 /* -- FOOTER
@@ -361,12 +361,12 @@ th {
 
 .site-footer {
   flex-shrink: 0; /* For pushing footer to bottom of page */
-  border-top: 1px solid var(--color-border);
-  background-color: var(--color-footer-background);
   padding-top: var(--spacing-unit);
   padding-bottom: var(--spacing-unit);
-  color: var(--color-footer-font); 
   font-size: .889em;
+  color: var(--color-footer-font); 
+  border-top: 1px solid var(--color-border);
+  background-color: var(--color-footer-background);
 }
 
 .site-footer ul {
@@ -402,8 +402,8 @@ th {
 
 /* Box around the slider */
 .theme-switch {
-  display: inline-block;
   position: relative;
+  display: inline-block;
   width: 60px;
   height: 34px;
 }
@@ -418,29 +418,29 @@ th {
 /* Slider */
 .theme-slider {
   position: absolute;
-  left: 0;
   top: 0;
   right: 0;
   bottom: 0;
+  left: 0;
+  cursor: pointer;
   background-color: var(--color-accent);
   transition: 0.4s;
-  cursor: pointer;
 }
 
 .theme-slider:before {
   position: absolute;
-  left: 0;
   top: 0;
   bottom: 0;
-  height: 40px;
+  left: 0;
   width: 40px;
+  height: 40px;
   margin: auto 0;
+  content: '';
   box-shadow: 0 0px 15px #2020203d;
   background: white url('/assets/icon-sun.png');
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.4s;
-  content: "";
 }
 
 input:checked + .theme-slider {
