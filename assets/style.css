@@ -57,9 +57,6 @@ form {
   
   --color-selection-font: #fff;
   --color-selection-background: #555564;
-  
-  --color-footer-font: #9ca1b4;
-  --color-footer-background: #3a3a3a;
 }
 
 .theme-dark {
@@ -76,9 +73,6 @@ form {
   
   --color-selection-font: #fff;
   --color-selection-background: #8892b0;
-
-  --color-footer-font: #b3b9c9;
-  --color-footer-background: #172a45;
 }
 
 /*------------------------------------------------------------------------------
@@ -369,12 +363,9 @@ th {
 
 .site-footer {
   flex-shrink: 0;
-  padding-top: var(--spacing-unit);
-  padding-bottom: var(--spacing-unit);
+  margin-bottom: var(--spacing-unit);
   font-size: .889em;
-  color: var(--color-footer-font); 
-  border-top: 1px solid var(--color-border);
-  background-color: var(--color-footer-background);
+  color: var(--color-secondary-font); 
 }
 
 .site-footer ul {
@@ -391,8 +382,8 @@ th {
   padding-right: 0;
 }
 
-.site-footer a { color: var(--color-footer-font); }
-.site-footer a:hover { color: var(--color-footer-font); }
+.site-footer a { color: var(--color-secondary-font); }
+.site-footer a:hover { color: var(--color-emphasize-font); }
 .site-footer a:hover:before { width: 0; }
 
 /*------------------------------------------------------------------------------
