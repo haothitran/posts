@@ -16,8 +16,6 @@ I created this site out of frustration with existing FFXIV online resources. Som
 
 So, I decided to solve this issue by making my own FFXIV reference guide. It is a huge project to undertake, especially since existing content can change drastically with future patches or expansions, so this project will always be a work in progress.
 
-Currently, this site is powered by [Gitbook](https://www.gitbook.com/) until I find a better alternative.
-
 All content is personally verified by my in-game experiences.
 
 - [View site](https://klazerville.com/).
