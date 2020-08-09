@@ -21,8 +21,6 @@ All content is personally verified by my in-game experiences.
 - [View site](https://klazerville.com/).
 - [View git repository](https://github.com/haothitran/klazerville).
 
-[![](assets/projects-screenshots/klazerville.png)](https://haothitran.github.io/klazerville/)
-
 ## Pixel Perfect
 
 Displays current browser size (width by height) in pixels.
