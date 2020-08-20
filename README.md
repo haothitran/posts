@@ -7,8 +7,11 @@ This repository contains the source files for my [personal website](https://haot
 - Coded using [Visual Studio Code](https://code.visualstudio.com/) editor
 - Built on [Jekyll](https://jekyllrb.com/) static site generator
 - Hosted on [GitHub Pages](https://pages.github.com/) for push-to-deployment
+- Using [Lato](https://fonts.google.com/specimen/Lato) font by [Łukasz Dziedzic](http://www.lukaszdziedzic.eu/)
+- Using [Material](https://material.io/resources/icons/?style=baseline) icons by [Google](https://www.google.com/)
+- Using images captured by [Brxxto](https://unsplash.com/@brxxto) and [Ricardo Gomez Angel](https://unsplash.com/@ripato)
 
-## Colour Reference Guide 
+## Colour Reference Guide
 
 ### Light Theme
 
@@ -25,7 +28,7 @@ This repository contains the source files for my [personal website](https://haot
 | Selection Background | ![#555564](https://via.placeholder.com/16/555564?text=+) `#555564` |
 | Selection Font       | ![#ffffff](https://via.placeholder.com/16/ffffff?text=+) `#ffffff` |
 
-### Dark Theme 
+### Dark Theme
 
 | Color                | Hex                                                                |
 | -------------------- | ------------------------------------------------------------------ |
