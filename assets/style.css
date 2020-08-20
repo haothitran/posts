@@ -46,7 +46,7 @@ form {
 .theme-light {
   --color-primary-font: #424242;
   --color-secondary-font: #696969;
-  --color-emphasize-font: #2c2c2c; 
+  --color-emphasize-font: #2c2c2c;
 
   --color-border: #dbdbdb;
   --color-primary-background: #fafafa;
@@ -54,7 +54,7 @@ form {
 
   --color-accent: #c41f3b;
   --color-links: #86071d;
-  
+
   --color-selection-font: #fff;
   --color-selection-background: #555564;
 }
@@ -62,7 +62,7 @@ form {
 .theme-dark {
   --color-primary-font: #9faed6;
   --color-secondary-font: #8892b0;
-  --color-emphasize-font: #e6f1ff; 
+  --color-emphasize-font: #e6f1ff;
 
   --color-border: #303C55;
   --color-primary-background: #0a192f;
@@ -70,7 +70,7 @@ form {
 
   --color-accent: #64ffda;
   --color-links: #64ffda;
-  
+
   --color-selection-font: #fff;
   --color-selection-background: #8892b0;
 }
@@ -85,9 +85,9 @@ body {
   width: 100%;
   height: 100%;
   font-family: 'Lato', sans-serif;
-  font-size: 18px; 
-  font-weight: 400; 
-  line-height: 1.6; 
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.6;
   color: var(--color-primary-font);
   background-color: var(--color-primary-background);
 }
@@ -109,7 +109,7 @@ h2 {
   font-size: 1.333em;
 }
 
-h3 { 
+h3 {
   margin-top: var(--spacing-unit);
   font-size: 1.111em;
 }
@@ -153,15 +153,15 @@ a:hover:before {
 /* -- LISTS
 ------------------------------------------------------------------------------*/
 
-ol { 
+ol {
   margin-bottom: calc(var(--spacing-unit) / 2);
   padding-left: calc(var(--spacing-unit) / 2 );
 }
 
-ul { 
+ul {
   margin-bottom: calc(var(--spacing-unit) / 2);
   padding-left: calc(var(--spacing-unit) / 2);
-  list-style-type: square; 
+  list-style-type: square;
 }
 ul ul {
   margin-top: calc(var(--spacing-unit) / 8);
@@ -191,8 +191,8 @@ code {
   background-color: var(--color-secondary-background);
 }
 
-code { 
-  padding: 2px 8px; 
+code {
+  padding: 2px 8px;
   border: 1px solid var(--color-border);
 }
 
@@ -238,7 +238,7 @@ table {
 tr { border-bottom: 1px solid var(--color-border); }
 tr:last-child { border-bottom: none; }
 
-th, 
+th,
 td {
   padding-left: calc(var(--spacing-unit) / 4);
   padding-top: calc(var(--spacing-unit) / 8);
@@ -247,7 +247,7 @@ td {
   font-size: .889em;
   text-align: left;
 }
-th:last-child, 
+th:last-child,
 td:last-child { padding-right: calc(var(--spacing-unit) / 4); }
 
 th {
@@ -260,7 +260,7 @@ th {
 -- // LAYOUT
 ------------------------------------------------------------------------------*/
 
-.wrapper { 
+.wrapper {
   display: flex;
   min-height: 100%;
   flex-direction: column;
@@ -275,32 +275,32 @@ th {
 /* -- HEADER
 ------------------------------------------------------------------------------*/
 
-.site-header { 
+.site-header {
   flex-shrink: 0;
-  margin-top: var(--spacing-unit); 
+  margin-top: var(--spacing-unit);
 }
 
 .site-title {
-  font-size: 2em; 
+  font-size: 2em;
   font-weight: 700;
   color: var(--color-emphasize-font);
   letter-spacing: 1px;
   text-transform: uppercase;
-  border-bottom: none; 
+  border-bottom: none;
 }
 
 /* -- NAV
 ------------------------------------------------------------------------------*/
 
-.site-nav { 
+.site-nav {
   flex-shrink: 0;
-  margin-top: calc(var(--spacing-unit) / 2); 
+  margin-top: calc(var(--spacing-unit) / 2);
 }
 
 .site-nav ul {
-  margin: 0; 
-  padding: 0; 
-  list-style: none; 
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 .site-nav li {
   display: inline-block;
@@ -326,11 +326,11 @@ th {
 
 .list-posts {
   margin: 0;
-  padding: 0; 
+  padding: 0;
   list-style: none;
 }
 .list-posts li {
-  display: block; 
+  display: block;
   padding-top: calc(var(--spacing-unit) / 4);
   padding-bottom: calc(var(--sapacing-unit) / 4);
   border-bottom: 1px solid var(--color-border);
@@ -352,7 +352,7 @@ th {
 
 .post-all { margin-top: var(--spacing-unit); }
 .post-all a {
-  color: var(--color-emphasize-font); 
+  color: var(--color-emphasize-font);
   text-transform: uppercase;
 }
 
@@ -363,20 +363,20 @@ th {
   flex-shrink: 0;
   margin-bottom: var(--spacing-unit);
   font-size: .889em;
-  color: var(--color-secondary-font); 
+  color: var(--color-secondary-font);
 }
 
 .site-footer ul {
   margin: 0;
-  padding: 0; 
-  list-style: none; 
+  padding: 0;
+  list-style: none;
 }
-.site-footer li { 
+.site-footer li {
   display: inline-block;
   padding-right: calc(var(--spacing-unit) / 2 );
 }
 .site-footer li:last-child {
-  float: right; 
+  float: right;
   padding-right: 0;
 }
 
