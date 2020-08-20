@@ -17,6 +17,7 @@ I'm interested in how the intersections of technology, productivity, and systems
 - Email — [hello@haothitran.com](mailto:hello@haothitran.com)
 - Twitter — [@haothitran](https://twitter.com/haothitran)
 - LinkedIn — [haothitran](https://www.linkedin.com/in/haothitran)
+- GitHub — [haothitran](https://github.com/haothitran)
 
 ## Colophon
 
