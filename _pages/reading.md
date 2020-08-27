@@ -12,6 +12,7 @@ Titles that have a ~~strikethrough~~ are books that I started to read, but could
 
 ## List
 
+- Rae D. Magdon — Death Wears Yellow Garters (2016)
 - Vincent Lam — Bloodletting & Miraculous Cures (2006)
 - ~~Vincent Lam — The Headmaster's Wager (2012)~~
 - Kazuo Ishiguro — Never Let Me Go (2005)
