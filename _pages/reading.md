@@ -12,6 +12,9 @@ Titles that have a ~~strikethrough~~ are books that I started to read, but could
 
 ## List
 
+- George Orwell — Nineteen Eighty-Four (1949)
+- ~~Emily Bronte — Wuthering Heights (1847)~~
+- ~~Charles Dickens — A Christmas Carol (1843)~~
 - Rae D. Magdon — Death Wears Yellow Garters (2016)
 - Vincent Lam — Bloodletting & Miraculous Cures (2006)
 - ~~Vincent Lam — The Headmaster's Wager (2012)~~
