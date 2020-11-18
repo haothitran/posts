@@ -29,8 +29,8 @@ date: 2016-08-08
 ## Data
 
 - Keep as much as possible in simple and/or open standard formats. For example, keep notes in plain text instead of a proprietary format for a word processor.
-- Always name dated files in `YYYYMMDD` format.
+- Always name dated files in `YYYY-MM-DD_title` format.
 - Have at least three backup copies of files, with at least one offsite.
-- Run from service providers that make it difficult to export your data.
+- Run away from service providers that make it difficult to export your data.
 
 Inspired by [Alex Payne](https://al3x.net/posts/2008/09/08/al3xs-rules-for-computing-happiness.html).
