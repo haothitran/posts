@@ -21,6 +21,7 @@ Titles that have a ~~strikethrough~~ are books that I started to read, but could
 - Kazuo Ishiguro — Never Let Me Go (2005)
 - Mitch Albom — For One More Day (2006)
 - ~~Charlotte Shane — Prostitute Laundry (2015)~~
+- Arthur Golden — Memoirs of a Geisha (1997)
 - ~~James Frey — A Million Little Pieces (2003)~~
 - Mark Haddon — The Curious Incident of the Dog in the Night-Time (2003)
 - Kent Haruf — Plainsong (1999)
