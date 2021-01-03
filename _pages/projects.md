@@ -8,6 +8,23 @@ permalink: /projects
 
 A list of personal projects. Most of these are small digital playgrounds that I created for a specific purpose that I revisit once in a while, usually to update code to keep up with new expected standards or to experiment with new available techniques. Includes projects that are no longer active.
 
+## AddOns for World of Warcraft
+
+Various add-ons that I have created for World of Warcraft for personal use.
+
+- [KlazAnnounce](https://github.com/haothitran/KlazAnnounce)
+- [KlazBars](https://github.com/haothitran/KlazBars)
+- [KlazBot](https://github.com/haothitran/KlazBot)
+- [KlazBuffs](https://github.com/haothitran/KlazBuffs)
+- [KlazChat](https://github.com/haothitran/KlazChat)
+- [KlazCombatStatus](https://github.com/haothitran/KlazCombatStatus)
+- [KlazMiniMap](https://github.com/haothitran/KlazMiniMap)
+- [KlazRaidAssist](https://github.com/haothitran/KlazRaidAssist)
+- [KlazRaidFrames](https://github.com/haothitran/KlazRaidFrames)
+- [KlazStats](https://github.com/haothitran/KlazStats)
+- [KlazTooltip](https://github.com/haothitran/KlazTooltip)
+- [KlazUnitFrames](https://github.com/haothitran/KlazUnitFrames)
+
 ## Klazerville
 
 A reference guide for various aspects of Final Fantasy XIV.
