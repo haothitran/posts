@@ -52,7 +52,7 @@ Displays current browser size (width by height) in pixels.
 
 ## Reckless Ambition
 
-A landing page for a progressive World of Warcraft raiding guild on Area-52 (US) server. I used to raid with this team during the latter half of Legion and periodically throughout Battle for Azeroth expansions. This site is not frequently updated.
+A landing page for a progressive World of Warcraft raiding guild on Area-52 (US) server. I used to raid with this team during the latter half of Legion and periodically throughout Battle for Azeroth expansions. This site is an archived project. It is not active.
 
-- [View site](https://reckless-ambition.com/).
+- [View site](https://haothitran.github.io/reckless-ambition/).
 - [View git repository](https://github.com/haothitran/reckless-ambition).
