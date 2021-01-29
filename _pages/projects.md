@@ -12,7 +12,8 @@ A list of personal projects. Most of these are small digital playgrounds that I 
 
 Various add-ons that I have created for World of Warcraft for personal use.
 
-- [KlazAnnounce](https://github.com/haothitran/KlazAnnounce)
+- [KlazAnnounceInterrupts](https://github.com/haothitran/KlazAnnounceInterrupts)
+- [KlazAnnounceSpells](https://github.com/haothitran/KlazAnnounceSpells)
 - [KlazBars](https://github.com/haothitran/KlazBars)
 - [KlazBot](https://github.com/haothitran/KlazBot)
 - [KlazBuffs](https://github.com/haothitran/KlazBuffs)
