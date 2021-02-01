@@ -12,19 +12,19 @@ A list of personal projects. Most of these are small digital playgrounds that I 
 
 Various add-ons that I have created for World of Warcraft for personal use.
 
-- [KlazAnnounceInterrupts](https://github.com/haothitran/KlazAnnounceInterrupts)
-- [KlazAnnounceSpells](https://github.com/haothitran/KlazAnnounceSpells)
-- [KlazBars](https://github.com/haothitran/KlazBars)
-- [KlazBot](https://github.com/haothitran/KlazBot)
-- [KlazBuffs](https://github.com/haothitran/KlazBuffs)
-- [KlazChat](https://github.com/haothitran/KlazChat)
-- [KlazCombatStatus](https://github.com/haothitran/KlazCombatStatus)
-- [KlazMiniMap](https://github.com/haothitran/KlazMiniMap)
-- [KlazRaidAssist](https://github.com/haothitran/KlazRaidAssist)
-- [KlazRaidFrames](https://github.com/haothitran/KlazRaidFrames)
-- [KlazStats](https://github.com/haothitran/KlazStats)
-- [KlazTooltip](https://github.com/haothitran/KlazTooltip)
-- [KlazUnitFrames](https://github.com/haothitran/KlazUnitFrames)
+- [KlazAnnounceInterrupts](https://github.com/haothitran/KlazAnnounceInterrupts) — announce successful cast interrupts to party/raid
+- [KlazAnnounceSpells](https://github.com/haothitran/KlazAnnounceSpells) — receive notification for important spells used in party/raid
+- [KlazBars](https://github.com/haothitran/KlazBars) — skin default action bars
+- [KlazBot](https://github.com/haothitran/KlazBot) — various quality of life automation for repetitive tasks
+- [KlazBuffs](https://github.com/haothitran/KlazBuffs) — skin default buffs and debuffs
+- [KlazChat](https://github.com/haothitran/KlazChat) — skin default chat frame
+- [KlazCombatStatus](https://github.com/haothitran/KlazCombatStatus) — indicator for changes in combat status
+- [KlazMiniMap](https://github.com/haothitran/KlazMiniMap) — skin default minimap
+- [KlazRaidAssist](https://github.com/haothitran/KlazRaidAssist) — accessible target and world markers
+- [KlazRaidFrames](https://github.com/haothitran/KlazRaidFrames) — skin default raidframes
+- [KlazStats](https://github.com/haothitran/KlazStats) — view system information
+- [KlazTooltip](https://github.com/haothitran/KlazTooltip) — skin default tooltip
+- [KlazUnitFrames](https://github.com/haothitran/KlazUnitFrames) — skin default unitframes
 
 ## Klazerville
 
