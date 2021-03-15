@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Personal Computing - Update
+title: Personal Computer — Update
 date: 2021-03-15
 ---
 
-# Personal Computing - Update
+# Personal Computer — Update
 
-During January 2020, I put together this build — fortunately, right before the price of video cards sky rocketed (again). This was supposed to be my second computer at my SO's place when I stayed over during weekend, but then I moved in a couple months later in March 2020. I didn't need to have two personal computers, so I sold my previous build to a friend to recoupe some costs.
+During January 2020, I put together this build — fortunately, right before the price of video cards sky rocketed (again). This was supposed to be my second computer at my SO's place when I stayed over during weekend, but then I moved in a couple months later in March 2020.
+
+I didn't need to have two personal computers, so I sold my previous build to a friend to recoupe some costs. Also, space is precious in our downtown condo rental! Can't have an unused computer sitting around gathering dust and taking up space.
 
 There are some upgrades to the peripherals, but most of it has stayed the same.
 
