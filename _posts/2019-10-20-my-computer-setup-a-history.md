@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Personal Computer: A History"
+title: "My Computer Setup: A History"
 date: 2019-10-20
 ---
 
