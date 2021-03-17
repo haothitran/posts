@@ -4,8 +4,6 @@ title: Early Morning Shift
 date: 2017-12-04
 ---
 
-# Early Morning Shift
-
 Five in the morning. Near zero visibility. Only lights passed through the dense fog blanketing the streets. I had to drive slowly and cautiously, watching lights fade in and out around me. Red light, green light. Crazy weather.
 
 Quiet times like this makes me think that I could be a morning person. There is something enticing about being awake while the world around you is still asleep. Feeling like there are endless possibilities for the day ahead of you, but not having anyone to share that feeling with. I don’t know how to explain it.

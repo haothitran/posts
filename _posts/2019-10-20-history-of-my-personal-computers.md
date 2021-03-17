@@ -4,8 +4,6 @@ title: History of My Personal Computers
 date: 2019-10-20
 ---
 
-# History of My Personal Computers
-
 A quick look at the history of my personal computers.
 
 ## First

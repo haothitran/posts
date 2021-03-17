@@ -4,8 +4,6 @@ title: Rules for Tattoos
 date: 2017-01-25
 ---
 
-# Rules for Tattoos
-
 I have developed a set of personal rules when I am considering getting a tattoo.
 
 I think that finding a talented artist and a reputable tattoo shop are sensible considerations that hopefully speak for themselves. Not to mention keeping in mind that tattoos are basically going to last forever. Thus, spending time researching or musing over a potential idea for a few months isn't much time in the grand scheme of things.

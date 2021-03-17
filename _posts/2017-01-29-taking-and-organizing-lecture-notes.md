@@ -4,8 +4,6 @@ title: Taking and Organizing Lecture Notes
 date: 2017-01-29
 ---
 
-# Taking and Organizing Lecture Notes
-
 It took years for me to figure out what note-taking system worked best for me to comprehend and retain information. After experimenting with different methods each school semester, I have developed a system that worked for me:
 
 1. Before lecture, read associated non-lecture materials.

@@ -4,8 +4,6 @@ title: Dealing with Information Overload
 date: 2015-10-20
 ---
 
-# Dealing with Information Overload
-
 There is too much noise and not enough signal in our modern digital culture. We are constantly being bombarded by information from various sources. All of them demand our attention and calling out, “Look at me! Look here! This is important! Look!” It has become very difficult to distinguish the actual importance of things.
 
 I don’t believe that the best way to deal with this constant stream of information is to switch off your devices and disconnect from the Internet. Because eventually your self-imposed break will be over and you’ll be back. And you will be facing the same problem again. Most likely facing the same problem at an even larger scale if you want to try to catch back up on what you missed while you were gone.

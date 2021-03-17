@@ -4,8 +4,6 @@ title: Raspberry Pi
 date: 2019-10-31
 ---
 
-# Raspberry Pi
-
 Recently purchased a Raspberry Pi to tinker around with as a small remote server. I wanted to learn a bit about home networking and home labs. Even if it is at a very small scale.
 
 I have been fascinated with the idea of a computer with the footprint the size of a credit card since the Raspberry Pi was first released in 2012. I've always wanted to get my hands on one to experiment with and see what I could do on a machine with limited hardware. There is also something appealing about the idea of a tiny cluster of Raspberry Pi boards that you can hold in one hand—no one else, just me, okay.

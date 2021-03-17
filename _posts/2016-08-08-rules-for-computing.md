@@ -4,8 +4,6 @@ title: Rules for Computing
 date: 2016-08-08
 ---
 
-# Rules for Computing
-
 ## General
 
 - Keep work and play separate.
