@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Computer — Update
+title: "Personal Computer: COVID-19 Edition"
 date: 2021-03-15
 ---
 

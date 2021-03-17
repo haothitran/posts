@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History of My Personal Computers
+title: "Personal Computer: A History"
 date: 2019-10-20
 ---
 
