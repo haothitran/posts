@@ -4,8 +4,6 @@ title: Reading
 permalink: /reading
 ---
 
-# Reading
-
 Since 2016, I've started tracking books that I've read. Here is that list in reverse chronological order, with those at the top being the most recent.
 
 Titles that have a ~~strikethrough~~ are books that I started to read, but could not get through for one reason or another.

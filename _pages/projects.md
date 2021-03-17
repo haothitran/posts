@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects
 ---
 
-# Projects
-
 A list of personal projects. Most of these are small digital playgrounds that I created for a specific purpose that I revisit once in a while, usually to update code to keep up with new expected standards or to experiment with new available techniques. Includes projects that are no longer active.
 
 ## AddOns for World of Warcraft

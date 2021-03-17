@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-# About
-
 Located in Toronto, ON. Graduated with a BA in Sociology from Ryerson University.
 
 ![An image of downtown Toronto.](/assets/page-about-toronto.jpg)
