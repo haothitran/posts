@@ -34,7 +34,7 @@ So, I decided to solve this issue by making my own FFXIV reference guide using [
 
 All content is personally verified by my in-game experiences.
 
-- [View site](https://klazerville.com/).
+- [View site](https://github.com/haothitran/klazerville).
 - [View git repository](https://github.com/haothitran/klazerville).
 
 [![](assets/projects-screenshots/klazerville.png)](https://klazerville.com/)
