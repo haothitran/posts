@@ -4,10 +4,18 @@ title: Greatness
 date: 2019-02-13
 ---
 
-When I was a child, my parents took me along on a bus tour to see Ottawa, Montréal, and Québec City. It wasn't an interesting tour for a kid—museums, art galleries, and historical sites. I wanted nothing more than to be comfortable at home. Honestly, it was such a bore that I don't remember anything remarkable about those few days.
+When I was a child, my parents took me on a guided bus tour to see Ottawa, Montréal, and Québec City. I have to admit that I remember nothing remarkable about those few days, except that there were many museums, art galleries, and historical sites. Safe to say, I didn't have a good time. I just wanted to be back home in the comfort of my bedroom and watch weekend cartoons.
 
-At the end of the trip, as my parents and I disembarked from the bus, the driver called out to us. We barely interacted with the driver during our entire journey except exchanging common courtesies and inquiries after general health. It was curious for him to suddenly single us out like that.
+![](/assets/posts/2019-02-13-greatness_quebec-city_umbrella-alley.jpg)
 
-Rather than speak to my parents, he knelt down in front of me on the pavement so that we were face-to-face. Then, he said something that has always perplexed me. He said, "You're going to do something great one day."
+In hindsight, I believe my parents brought me along to be a mediocre English translator for them — I don't think I did a good job.
+
+![](/assets/posts/2019-02-13-greatness_toronto_city-hall.jpg)
+
+As my parents and I disembarked from the bus back in Toronto, the driver called out to us to wait a moment. We had barely interacted with the driver during our entire trip, so it was curious of him to single us out like that. But rather than speak to my parents, he took off his worn blue baseball cap and knelt on one knee in front of me. And in the middle of downtown pedestrian traffic, we studied each other for a long moment.
+
+He then said something which has always perplexed me.
+
+He said, "You're going to do something great one day."
 
 I think about that a lot.

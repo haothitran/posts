@@ -10,4 +10,4 @@ Even more fascinating is that these people, all sharing this common thread of in
 
 It sounds ridiculous, but it's true.
 
-I think it is remarkable how people can develop such varied relationships based on what they know, what they are interested in, and how willing they are to learn something new and different. It's what makes people unique. And life interesting. There is always something new to discover and learn.
+It is remarkable how people can develop such varied relationships based on what they know, what they are interested in, and how willing they are to learn something new and different. It's what makes people unique. And life interesting. There is always something new to discover and learn.
