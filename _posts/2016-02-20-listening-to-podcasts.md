@@ -22,6 +22,4 @@ Many activities only require the attention of my eyes and hands. My ears are fre
 
 It is an appealing form of entertainment for me. I enjoy being a silent participant in several different conversations relating to my personal interests. When show hosts go on tangents, I can tune it out for a moment or skip an entire conversation thread altogether. In extreme cases, I can just drop a podcast if the show's direction no longer interests me.
 
-I admit that it took me a while to get back into listening to podcasts. I think they are difficult to get into by yourself because there are so many shows and niche topics. It is overwhelming and intimidating to dive into them alone without guidance. 
-
-You just have to take a leap somewhere and start listening.
+I admit that it took me a while to get back into listening to podcasts. I think they are difficult to get into by yourself because there are so many shows and niche topics. It is overwhelming and intimidating to dive into them alone without guidance. For myself, I found a topic that interested me and started listening from the first episode. From there, my podcast library grew organically into other shows.

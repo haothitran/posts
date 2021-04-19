@@ -4,12 +4,14 @@ title: Being Busy
 date: 2019-01-26
 ---
 
-Life gets busy sometimes. However, I think that many people are under the illusion that they are busy. Rather, people feel busy because they are constantly overwhelmed.
+I think that many people are under the illusion that they are busy. Rather, people feel busy because they are constantly overwhelmed by choices.
 
-We live in a modern world where we have privileges and freedoms that we've never had before. Our quality of life has dramatically increased from just the past couple of decades. However, those things come at a cost. Every choice requires a decision to be made, and every decision requires our focus. Unfortunately, focus is not something we have in abundance anymore.
+We live in a modern world where we have privileges and freedoms that we've never had before. Our quality of life has dramatically increased in the last couple of decades. We have developed new forms of entertainment. With the touch of our fingertips, we can buy products and services. We have access to the worldwide web in our pockets.
 
-There is always something to do. There is always something to see. There is always something to catch up on.
+However, those things come at a cost. We have to make an infinite number of choices now. There is always something to do. There is always something to see. There is always something to catch up on. Every choice requires a decision to be made, and every decision requires our focus. 
 
-We have so many opportunities and options available to us, and we always need to decide what to act on or what not to act on. We only have so much time and energy we have to spend. And all these little decisions we have to make add up. Inevitably, decision fatigue sets in, and we start to avoid making those decisions that dictate our lives. Rather than deal with things, we keep jamming them into the back of our mental pantry until there is no more room causing us to make quick, uninformed choices we would've otherwise not have made.
+Unfortunately, focus is not something we have in abundance anymore.
 
-We need mental room to reflect. To make space to breathe. Set limits because if we don't set boundaries for ourselves, others will set them for us—and we may not like where they draw the line. We can't burden ourselves with unnecessary responsibilities, choices, and things. We can't do everything or have everything.
+We only have so much time and energy we have to spend. And all these little decisions we have to make add up. Inevitably, decision fatigue sets in, and we start to practice decision avoidance. Instead of dealing with things, we keep jamming them into the back of our mental pantry until there is no more room.
+
+We need mental room to reflect. To make space to breathe and rest. We need to set limits because if we don't place those boundaries ourselves, others will set them for us—and we may not like where they draw the line. 
