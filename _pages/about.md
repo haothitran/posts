@@ -25,4 +25,4 @@ In case you were wondering about the technical details, this site is:
 - Coded using [Visual Studio Code](https://code.visualstudio.com/) editor
 - Built on [Jekyll](https://jekyllrb.com/) static site generator
 - Hosted on [GitHub Pages](https://pages.github.com/) for push-to-deployment
-- Using images from [Unsplash](https://unsplash.com/) by various photographers
+- Using images from [Unsplash](https://unsplash.com/) taken by various photographers
