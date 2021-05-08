@@ -12,8 +12,6 @@ In either case, something needs to change in the overall structure for things to
 
 It is not always your fault. 
 
-Sometimes things are just out of your immediate control. 
+Sometimes things are out of your immediate control. 
 
 And sometimes you can't do anything about it.
-
-Feels bad, man.
