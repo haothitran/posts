@@ -4,7 +4,7 @@ title: Reading
 permalink: /reading
 ---
 
-Here is a list of books that I've read in reverse chronological order, with those at the top being the most recent. Entries that have a strikethrough are books that I could not get through for one reason or another.
+Since 2016, I've kept track of the books that I've read. Here is a that list in reverse chronological order, with those at the top being the most recent. Entries that have a strikethrough are books that I could not get through for one reason or another.
 
 | Name                                                                                   | Author              | Published |
 |----------------------------------------------------------------------------------------|---------------------|-----------|
