@@ -8,6 +8,8 @@ Since 2016, I've kept track of the books that I've read. Here is a that list in 
 
 | Name                                                                                   | Author              | Published |
 |----------------------------------------------------------------------------------------|---------------------|-----------|
+| Thinking, Fast and Slow                                                                | Daniel Kahneman     | 2011      |
+| ~~The Second Sister                                                                    | Rae D. Magdon       | 2014      |
 | The Life-Changing Manga of Tidying Up: A Magical Story                                 | Marie Kondo         | 2017      |
 | The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing | Marie Kondo         | 2010      |
 | Nineteen Eighty-Four                                                                   | George Orwell       | 1949      |
