@@ -8,7 +8,9 @@ Since 2016, I've kept track of the books that I've read. Here is a that list in 
 
 | Name                                                                                   | Author              | Published     |
 |----------------------------------------------------------------------------------------|---------------------|---------------|
-| Thinking, Fast and Slow                                                                | Daniel Kahneman     | 2011          |
+| Deltora Quest                                                                          | Emily Rodda         | 2000-2005     |
+| Fur and Fangs                                                                          | Rae D. Magdon       | 2017-2018     |
+| ~~Thinking, Fast and Slow~~                                                            | ~~Daniel Kahneman~~ | ~~2011~~      |
 | ~~The Second Sister~~                                                                  | ~~Rae D. Magdon~~   | ~~2014~~      |
 | ~~A Series of Unfortunate Events~~                                                     | ~~Lemony Snicket~~  | ~~1999-2006~~ |
 | The Life-Changing Manga of Tidying Up: A Magical Story                                 | Marie Kondo         | 2017          |
