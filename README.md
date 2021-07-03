@@ -7,7 +7,7 @@ This repository contains the source files for my [personal website](https://haot
 - Coded using [Visual Studio Code](https://code.visualstudio.com/) editor
 - Built on [Jekyll](https://jekyllrb.com/) static site generator
 - Hosted on [GitHub Pages](https://pages.github.com/) for push-to-deployment
-- Using images from [Unsplash] by various photographers
+- Using images from [Unsplash](https://unsplash.com/) by various photographers
 
 ## Colour Reference Guide
 
